@@ -1,4 +1,3 @@
 # DivisionSeries
-Did this format change the results of the division series?
+Does the new playoff format change the chance of the lower-seeded team winning division series?
 
-#divisionserieswork
