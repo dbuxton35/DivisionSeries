@@ -1,1 +1,4 @@
-
+attach(divseries)
+#Graphing a boxplot for win percentage before and after 2012
+boxplot(before, after, horizontal = TRUE, col = c("red", "blue"), 
+        main="Boxplot for Win Percentage before and after 2012", xlab="Win Percentage (%)")
